@@ -11,10 +11,11 @@ Este proyecto es un sistema de login y registro simple realizado como introducci
 
 ¿Cómo instalarlo?
 
-Copiá la carpeta "ProyectoLogin_TomasMarenghi" dentro de C:\xampp\htdocs 
+Creá una carpeta llamada "ProyectoLogin" dentro de C:\xampp\htdocs
+Copiá todos los archivos del repositorio dentro de ella
 Luego abrí phpMyAdmin e importá el archivo sql/db_login.sql
 Encendé Apache y MySQL desde el panel de XAMPP
-Entrá a http://localhost/ProyectoLogin_TomasMarenghi desde un navegador
+Entrá a http://localhost/ProyectoLogin desde un navegador
 
 Detalles del sistema:
 
